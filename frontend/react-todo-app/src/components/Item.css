@@ -1,0 +1,29 @@
+.list-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 15px;
+    border-radius: 15px;
+    border: 1px solid #D9D9D9;
+    background-color: #D9D9D9;
+}
+
+.left-zone{
+    display: flex;
+}
+
+.checkbox-mui{
+    margin-right: 35px;
+}
+
+.btn{
+    font-size: 15px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.btn:hover{
+    color: black;
+}
+

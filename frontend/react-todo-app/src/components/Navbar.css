@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+
+.logo{
+    margin-right: auto;
+    padding-left: 10px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin-left: 12px;
+    font-size: 18px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+a:hover{
+    color: orange;
+}
+
+.btn-nav{
+    display: flex;
+    gap: 30px; /* For spacing between buttons */
+    margin: 10px; /* Add desired margin */
+    padding: 10px; /* Add desired padding */
+}
